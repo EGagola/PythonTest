@@ -20,8 +20,8 @@ medalResults = [
 def createMedalTable(results):
     # Use the results object above to create a medal table
     # The winner gets 3 points, second place 2 points and third place 1 point
+    # Create an array for medal point totals then set loops to assign points for each sport
     return
-
 
 def test_function():
     #This it the test function, please don't change me
